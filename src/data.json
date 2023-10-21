@@ -1,0 +1,52 @@
+{    
+    "products" : [
+        {
+            "id": 1,
+            "productName": "IPhone",
+            "price": 999.00,
+            "productImage": "assets/img1"
+        },
+        {
+            "id": 2,
+            "productName": "Macbook Pro",
+            "price": 999.00,
+            "productImage": "assets/img2"
+        },
+        {
+            "id": 3,
+            "productName": "Cannon M50 Camera",
+            "price": 999.00,
+            "productImage": "assets/img3"
+        },
+        {
+            "id": 4,
+            "productName": "WLS Van Gogh Denim Jacket",
+            "price": 999.00,
+            "productImage": "assets/img4"
+        },
+        {
+            "id": 5,
+            "productName": "LED Light Strips",
+            "price": 999.00,
+            "productImage": "assets/img5"
+        },
+        {
+            "id": 6,
+            "productName": "SPECTRUM LS TEE",
+            "price": 999.00,
+            "productImage": "assets/img6"
+        },
+        {
+            "id": 7,
+            "productName": "AUTO SERVICE SHIRT by GOLF WANG",
+            "price": 999.00,
+            "productImage": "assets/img7"
+        },
+        {
+            "id": 8,
+            "productName": "DON'T TRIP UNSTRUCTURED HAT",
+            "price": 999.00,
+            "productImage": "assets/img8"
+        }
+    ]
+}
